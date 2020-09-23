@@ -1,0 +1,35 @@
+.par2 {
+    width: 45%;
+    height: 20%;
+    color: darkgreen;
+    margin-right: 25%;
+    margin-top: 10%;
+    background-color: rgba(87, 175, 99, 0.671);
+    border-radius: 50px;
+    border: white;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px black;
+    font-family: sas;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.par2:hover {
+    width: 47%;
+    height: 22%;
+    color: darkgreen;
+    margin-right: 25%;
+    margin-top: 10%;
+    background-color: rgba(65, 173, 79, 0.993);
+    border-radius: 50px;
+    border: white;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px black;
+    font-family: sas;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "sas";
+    src: url("sas.ttf") format("truetype");
+}

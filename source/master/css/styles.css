@@ -1,0 +1,452 @@
+/**
+ * Variables
+ */
+/* Colors*/
+/**
+ * General
+ */
+*,
+*:before,
+*:after {
+    box-sizing: border-box; }
+
+html,
+body {
+    height: 100%; }
+
+body {
+    background-color: #e2e2e2;
+    color: #333;
+    font-size: 0.9em;
+    font-family: 'Open Sans', sans-serif;
+    padding: 1.5rem 1rem;
+    overflow-x: hidden; }
+
+.fine-print {
+    color: #c1c1c1;
+    font-size: 8px; }
+.fine-print a {
+    color: #333; }
+
+.center-text {
+    text-align: center; }
+
+#wrapper {
+    width: 100%;
+    max-width: 320px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15); }
+
+/**
+ * Heading
+ */
+.header {
+    background-color: #4d9ef2;
+    color: #fff;
+    font-size: 0.8rem;
+    text-align: center;
+    padding: 1rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /*transition: background-color 0.5s;*/ }
+
+.header-title {
+    font-weight: 300;
+    margin: 0; }
+
+.header-subtitle {
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 0.05rem; }
+
+/**
+ * Terms Section
+ */
+/* Credit Card Icons Row */
+.card-icons {
+    text-align: center;
+    padding: 0.75rem 0 0.5rem; }
+.card-icons img {
+    margin: 0 0.25rem; }
+
+/* Terms Text */
+.terms-title {
+    font-weight: 600;
+    margin: 0; }
+
+.amount {
+    font-size: 1.2rem;
+    font-weight: 600;
+    float: left; }
+
+.duration {
+    background-color: #c1c1c1;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.25rem 0.5rem;
+    border-radius: 5px;
+    float: right; }
+
+.header_clear {
+    padding: 0px;
+    margin: 0px;
+    font-size: 5px;
+    clear: both;
+}
+.renews {
+    margin: 40px 0 0 0;
+}
+
+.fine-print.contact-support {
+    font-size: 0.8rem; }
+
+/**
+ * Fields
+ */
+.form-body {
+    background-color: #fff;
+    padding: 0 1.5rem 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; }
+
+.field {
+    margin-bottom: 1rem; }
+
+label,
+input {
+    display: block; }
+
+label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0; }
+
+input {
+    font-size: 1rem;
+    font-weight: 300;
+    width: 100%;
+    padding: 0.4rem 0.5rem;
+    border: 1px solid #c1c1c1;
+    border-radius: 3px; }
+
+::-webkit-input-placeholder {
+    color: #c1c1c1; }
+
+::-moz-placeholder {
+    color: #c1c1c1; }
+
+:-ms-input-placeholder {
+    color: #c1c1c1; }
+
+/* Two Fields on One line */
+.split-field + .field {
+    clear: both; }
+
+.col-1,
+.col-2 {
+    width: 50%; }
+
+.col-1 {
+    float: left; }
+.col-1 input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: none; }
+
+.col-2 {
+    float: right;
+    margin-bottom: 0; }
+.col-2 input {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; }
+
+/* Do not join the two fields together */
+.has-expiry .col-1 input {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-right: 1px solid #c1c1c1; }
+
+.has-expiry .col-2 input {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px; }
+
+.expiry input {
+    width: 40%;
+    display: inline-block; }
+
+.expiry-sep {
+    margin: 0.1rem; }
+
+.col-1 input.nomask, .col-2 input.nomask{
+    border-radius: 3px;
+    border: 1px solid #c1c1c1;
+}
+
+.input-error input.nomask {
+    border-color: #f24d4d;
+}
+
+/* Fields with "Help" Icons */
+.input-with-icon {
+    position: relative; }
+.input-with-icon input {
+    padding-right: 2rem; }
+
+input[name="xsale"] {
+    display: inline;
+    width: auto;
+    margin-right: 5px;
+}
+
+/* Form Submit Button */
+.btn-pay {
+    background-color: #4d9ef2;
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    margin: 1.25rem 0 -1.5rem;
+    padding: 0.75rem;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    display: block;
+    /*transition: background-color 0.5s;*/ }
+.btn-pay img {
+    margin-right: 0.25rem;
+    position: relative;
+    top: 2px; }
+
+/**
+ * Help Boxes
+ */
+/* Icon */
+.help-icon {
+    background-color: #c1c1c1;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1rem;
+    text-align: center;
+    width: 1rem;
+    height: 1rem;
+    padding: 1px;
+    box-sizing: content-box;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 0.6rem;
+    right: 0.5rem;
+    cursor: pointer; }
+
+/* Container */
+.help-box {
+    background-color: #c4c4c4;
+    text-align: center;
+    width: 80%;
+    max-width: 300px;
+    margin-top: 23px;
+    padding: 1rem;
+    border-radius: 5px;
+    position: absolute;
+    left: 50%;
+    z-index: 99;
+    transform: translateX(-50%);
+    visibility: hidden;
+    /*transition: opacity 0.3s, visibility 0.3s;*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+.help-box:after {
+    content: ' ';
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #c4c4c4;
+    position: absolute;
+    bottom: -9px;
+    right: 5.5%; }
+.help-box.open {
+    visibility: visible;
+    opacity: 1;
+    /*transition: opacity 0.3s, visibility 0.3s;*/ }
+.help-box p {
+    margin: 0;
+    padding: 0 1rem; }
+
+.close {
+    background-color: #333;
+    color: #c4c4c4;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.2rem;
+    display: inline-block;
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 50%;
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    cursor: pointer; }
+
+/**
+ * CVV Example
+ */
+/* This is instead of an image */
+.card {
+    background-color: #fee083;
+    width: 100%;
+    height: 150px;
+    margin-top: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 0 #fed350; }
+
+.card-stripe {
+    background-color: #000;
+    width: 100%;
+    height: 34px;
+    position: relative;
+    top: 27px; }
+
+.card-row {
+    padding: 0 1rem;
+    position: relative;
+    top: 45px; }
+
+.card-signature {
+    background-color: #fff;
+    width: 70%;
+    height: 34px;
+    float: left; }
+
+.card-cvv {
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0.1rem 0.25rem;
+    border: 2px solid #ed1722;
+    border-radius: 3px;
+    float: right; }
+
+/**
+ * Sending / Submitting
+ */
+.sending .header {
+    background-color: #4d9ef2;
+    /*transition: background-color 0.5s;*/ }
+
+.sending .btn-pay {
+    background-color: #7db8f5;
+    /*transition: background-color 0.5s;*/ }
+
+/**
+ * Errors
+ */
+/* Colors */
+.input-error input,
+.error-msg {
+    color: #f24d4d; }
+
+.input-error input {
+    background-color: #f0c7ba;
+    border-color: #f24d4d;
+    border-right: 1px solid; }
+
+.input-error ::-webkit-input-placeholder {
+    color: rgba(242, 77, 77, 0.5); }
+
+.input-error ::-moz-placeholder {
+    color: rgba(242, 77, 77, 0.5); }
+
+.input-error :-ms-input-placeholder {
+    color: rgba(242, 77, 77, 0.5); }
+
+.input-error .help-icon {
+    background-color: #f24d4d; }
+
+/* Error Message Below Input */
+.error-msg {
+    display: none;
+    font-size: 0.7rem; }
+
+.input-error .error-msg {
+    display: inline; }
+
+/**
+ * Success
+ */
+.success {
+    background-color: #fff;
+    text-align: center;
+    height: 100%;
+    min-height: 400px;
+    padding: 1rem;
+    position: relative; }
+.success .btn-pay {
+    font-weight: 600;
+    width: calc(100% - 3rem);
+    margin: 0;
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%); }
+
+.checkmark {
+    background-color: #4d9ef2;
+    display: inline-block;
+    height: 120px;
+    width: 120px;
+    margin-top: 3rem;
+    position: relative;
+    border-radius: 50%; }
+.checkmark img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+
+.success-text .fine-print {
+    font-style: italic; }
+
+.success-text p {
+    margin: 0; }
+
+.paid-amt {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0.75rem 0 0;
+    display: inline-block; }
+
+/**
+ * Media Queries
+ */
+/* Give the wrapper a bottom margin if it is taller than the screen */
+/* This only happens in landscape */
+@media (orientation: landscape) {
+    #wrapper.success {
+        margin-bottom: 1.5rem; } }
+
+/* Larger Phone and Small Tablet */
+/* Ex: iPhone 6, Galaxy Tab 7 */
+@media (min-width: 360px) {
+    .help-box:after {
+        right: 6.5%; } }
+
+/* Larger Tablet and Desktop */
+/* Ex: iPad or Galaxy Tab 10 */
+@media (min-width: 768px) {
+    #wrapper {
+        max-width: 480px;
+        position: relative; }
+    /* Full-height looks weird on desktop */
+    .success {
+        max-height: 400px; }
+    .fine-print {
+        font-size: 10px; }
+    .help-box {
+        margin-top: 0;
+        left: 35%;
+        transform: translateX(0); }
+    .expiry-sep {
+        margin: 0.2rem; } }

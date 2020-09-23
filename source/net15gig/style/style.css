@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'IRANSans-web';
+    src:
+    url('fonts/IRANSans-web.ttf') format('truetype');
+  }
+
+@font-face {
+font-family: 'BTitrBold';
+src: url('fonts/BTitrBold.eot') format('eot'),
+url('fonts/BTitrBold.ttf') format('truetype'),
+url('fonts/BTitrBold.woff') format('woff');
+}
+
+body{
+    background-image: url(../img/1.jpg);
+    margin: auto;
+    direction: rtl;
+	text-decoration:none;
+}
+.border{
+	margin:auto;
+	width:365px;
+	height:500px;
+    margin-top:100px;
+    text-align: center;
+}
+.title{
+    direction: rtl;
+    text-decoration:none;
+	text-align:center;
+	color:#FFF;
+	font-size:30px;
+    font-family:BTitrBold,'BTitrBold',tahoma;
+}
+.tinytitle{
+    direction: rtl;
+    text-decoration:none;
+	text-align:center;
+	color:#FFF;
+	font-size:20px;
+    font-family:BTitrBold,'BTitrBold',tahoma;
+}
+.text{
+    direction: rtl;
+    text-decoration:none;
+    text-align:center;
+    font-family:IRANSans-web;
+    color: #FFF;
+}
+.tinytext{
+    direction: rtl;
+    text-decoration:none;
+    text-align:center;
+    font-family:IRANSans-web;
+    font-size: 9px;
+    color: #FFF;
+}
+#irancell{
+    margin-left: auto;
+    margin-right: auto;    
+    background: url('../img/irancell.png') no-repeat;
+                border: none;
+                width: 100px;
+                height: 100px;
+}
+#mci{
+    margin-left: auto;
+    margin-right: auto;    
+    background: url('../img/mci.png') no-repeat;
+                border: none;
+                width: 100px;
+                height: 100px;
+}
+#rightel{
+    margin-left: auto;
+    margin-right: auto;    
+    background: url('../img/rightel.png') no-repeat;
+                border: none;
+                width: 100px;
+                height: 100px;
+}

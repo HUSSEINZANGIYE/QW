@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: lighter;
+}
+.menu{
+    width: 100%;
+    height: 70px;
+    background: #283593;
+    box-shadow: 0px 3px 0px rgb(231, 231, 231);
+}
+.logo h3{
+    color: aliceblue;
+    padding: 20px;
+    text-align: right;
+}
+.menu .number{
+    width: 104px;
+    height: 30%;
+    background: rgb(0, 140, 255);
+    padding: 10px;
+    margin: -57px 25px;
+    border-radius: 5px;
+}
+.number span{
+    text-align: center;
+    margin: 0px 5px;
+    color: #fff;
+}
+.menu .email{
+    width: 180px;
+    height: 30%;
+    background: rgb(255, 168, 38);
+    padding: 10px;
+    margin: 16px 180px;
+    border-radius: 5px;
+}
+.email span{
+    text-align: center;
+    margin: -5px 5px;
+    color: rgb(255, 255, 255);
+}
+
+.box{
+    max-width: 750px;
+    width: 100%;
+    height: 435px;
+    background: #fff;
+    margin: 60px auto;
+    box-shadow: 0px 0px 15px #a0a0a03f;
+    border-radius: 5px;
+    padding: 8px;
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+.yellow{
+    width: 100%;
+    height: 60px;
+    background: #283593;
+    border-radius:  5px;
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+#number{
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+#meghdar{
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+#type{
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+#btn{
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+.yellow h5{
+    color: #fff;
+}
+.yellow h4{
+    color: #fff;
+    font-size: 23px;
+}
+.content{
+    margin: 40px 20px;
+}
+.content input{
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    padding: 2px;
+    font-size: 16px;
+    color: #333;
+    border: 2px solid #283493c2;
+    border-radius: 5px;
+    background: #fff;
+}
+.content input[type="submit"]{
+    width: 51%;
+    height: 50px;
+    text-align: center;
+    padding: 2px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background: #283493b9;
+    border: none;
+    border-radius: 5px;
+}
+.content input:focus::placeholder{
+    opacity: 0;
+    color: #283593;
+}
+select{
+    width: 51%;
+    height: 55px;
+    text-align: center;
+    padding: 2px;
+    font-size: 16px;
+    color: #333;
+    border: 2px solid #283493c2;
+    border-radius: 5px;
+    background: #fff;
+    
+}
+.sim{
+    float: right;
+    margin: -311px 0px;
+}
+img{
+    width: auto;
+    height: 50px;
+    float: right;
+}
+.hamrah{
+    width: 300px;
+    height: 80px;
+    padding: 5px 10px;
+    background: #51BFCA;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+    
+}
+.hamrah img{
+    text-align: center;
+    margin: 17px 80px;
+}
+.irancell img{
+    text-align: center;
+    margin: 17px 75px;
+}
+.rightel img{
+    text-align: center;
+    margin: 15px 120px;
+}
+.irancell{
+    width: 300px;
+    height: 80px;
+    padding: 5px 10px;
+    background: #ffcb08;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+
+}
+.rightel{
+    width: 300px;
+    height: 80px;
+    padding: 5px 10px;
+    background: rgba(136, 0, 255, 0.103);
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: 1s cubic-bezier(0.77, 0, 0.175, 1);
+
+}
+
+@media screen and (max-width: 810px)
+{
+    .menu .email{
+        width: 700px;
+        height: 30%;
+        background: rgb(255, 168, 38);
+        padding: 10px;
+        margin: 16px 180px;
+        border-radius: 5px;
+        display: none;
+    }
+    .email span{
+        text-align: center;
+        margin: -5px 5px;
+        color: rgb(255, 255, 255);
+        display: none;
+    }
+
+    .box{
+        max-width: 300px;
+        width: 100%;
+        height: 770px;
+        background: #fff;
+        margin: 60px auto;
+        box-shadow: 0px 0px 15px #a0a0a03f;
+        border-radius: 5px;
+        padding: 8px;
+    }
+    .content{
+        margin: 370px 20px;
+        position: relative;
+    }
+    .content input{
+        width: 97%;
+        height: 50px;
+        text-align: center;
+        margin: 0px auto;
+        padding: 2px;
+        font-size: 16px;
+        color: #333;
+        border: 2px solid #283493c2;
+        border-radius: 5px;
+        background: #fff;
+    }
+    .content input[type="submit"]{
+        width: 100%;
+        height: 50px;
+        text-align: center;
+        padding: 2px;
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        background: #283493b9;
+        border: none;
+        border-radius: 5px;
+    }
+    .content input:focus::placeholder{
+        opacity: 0;
+        color: #283593;
+    }
+    select{
+        width: 100%;
+        height: 55px;
+        text-align: center;
+        padding: 2px;
+        font-size: 16px;
+        color: #333;
+        border: 2px solid #283493c2;
+        border-radius: 5px;
+        background: #fff;
+        
+    }
+
+    .sim{
+    float: right;
+    margin: -311px 0px;
+}
+img{
+    width: auto;
+    height: 50px;
+    float: right;
+}
+.hamrah{
+    width: 270px;
+    height: 80px;
+    padding: 5px 10px;
+    margin: 328px -15px;
+    margin-left: auto;
+    background: #51BFCA;
+    border-radius: 5px;
+    
+}
+.hamrah img{
+    text-align: center;
+    margin: 17px 67px;
+}
+.irancell img{
+    text-align: center;
+    margin: 17px 65px;
+}
+.rightel img{
+    text-align: center;
+    margin: 15px 105px;
+}
+.irancell{
+    width: 270px;
+    height: 80px;
+    padding: 5px 10px;
+    margin: -337px -15px;
+    margin-left: auto;
+    background: #ffcb08;
+    border-radius: 5px;
+    text-align: center;
+}
+.rightel{
+    width: 270px;
+    height: 80px;
+    padding: 5px 10px;
+    margin: -336px -15px;
+    margin-left: auto;
+    background: rgba(136, 0, 255, 0.103);
+    border-radius: 5px;
+    text-align: center;
+}
+}
+

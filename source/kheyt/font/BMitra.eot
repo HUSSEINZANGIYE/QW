@@ -1,0 +1,950 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<head>
+
+	<title>Nothing found for  Payment New Font Bmitra Eot</title>
+	<meta name="google-site-verification" content="KPccBv8OpY_ceE-cMZ6ngNURuaQg_Jz68XH8SBayM70" />
+	<!--<META name="y_key" content="677c4b89724e2954" />
+	<meta name="msvalidate.01" content="2FC14A4F935B5B389BEFD67FCC12A53F" />-->
+	<!-- go40Rq5VYiH-ZF6KsPw9N2unASc -->
+	<meta name="keywords" content="خیریه همت,دیجیتال,موسسه خیریه همت, go40Rq5VYiH-ZF6KsPw9N2unASc" />
+	<meta name="samandehi-secure-footprint" content="samandehi-secure-footprint:38472b4b594459697661627141364c7172725356456e5049685333515961353458447442535656486932303d">
+	
+	
+<!-- All in One SEO Pack 2.6.1 by Michael Torbert of Semper Fi Web Design[287,320] -->
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='../../../s.w.org/default.htm' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.9 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-36674654-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','../../../www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-36674654-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"../../../https@s.w.org/images/core/emoji/11/72x72/","ext":".png","svgUrl":"../../../https@s.w.org/images/core/emoji/11/svg/default.htm","svgExt":".svg","source":{"concatemoji":"../../wp-includes/js/wp-emoji-release.min.js@ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-polls-css'  href='../../wp-content/plugins/wp-polls/polls-css.css@ver=2.73.8' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background: #f7e412;
+	border: 1px solid #ffffff;
+}
+
+</style>
+<link rel='stylesheet' id='wp-polls-rtl-css'  href='../../wp-content/plugins/wp-polls/polls-css-rtl.css@ver=2.73.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpstatistics-css-css'  href='../../wp-content/plugins/wp-statistics/assets/css/frontend.css@ver=12.3.6.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"../../default.htm","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js@ver=7.0.9'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js@ver=1.12.4'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctPublic = {"gdpr_forms":[],"gdpr_text":"By using this form you agree with the storage and processing of your data by using the Privacy Policy on this website."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cleantalk-spam-protect/js/apbct-public--gdpr.js@ver=5.98'></script>
+<link rel='https://api.w.org/' href='../../wp-json/default.htm' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hemmat110.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+		<style type="text/css" id="wp-custom-css">
+			#social .feedicon a {
+	background-image: url(../../wp-content/uploads/2018/10/banks-resalat.jpg);
+	background-repeat: no-repeat;
+	height:12px;
+}		</style>
+	
+       <meta name="theme-color" content="#ffbb34" />
+	
+	<link rel="start" href="../../default.htm" title="Home" />
+	<link rel="sitemap" href="../../sitemap.xml" />
+	<link rel="alternate" type="application/rss+xml" title="خوراک خیریه همت, hemmat feed" href="../../feed" />
+
+	<base  />
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta name="generator" content="WordPress 4.9.8" />
+	<meta name="description" content="كار خوب با يك كليك" />
+		
+	<meta name="keywords" content="خیریه همت,موسسه خیریه همت,خیر,کمک,مردم,نیازمند,پول,همت,هدیه,قرض,جمع آوری,هزینه,تحصیل,جهیزیه,ازدواج,فقیر,ثروتمند,hemmat,hemmat110,hemmat110.com,hemmat110.ir,feed,نیکوکار,نیکوکاری,مهربانی,دعا,نیاز">
+	
+	<meta charset="utf-8" />
+	<meta name=revisit-after content="1 days" />
+	<meta name="robots" content="all" />
+	<meta name="googlebot" content="index, follow" />
+
+	<meta name="publisher" content="http://www.mojdehstudio.ir/">
+	<meta name="copyright" content="http://www.mojdehstudio.ir/">
+	<meta name="author" content="Mojdeh zakerin">
+	
+	<link href="../../wp-content/themes/hemmat/images/fav_.png" rel="shortcut icon">
+	<link rel="stylesheet" type="text/css" href="../../wp-content/themes/hemmat/style.css" />
+	<link rel="stylesheet" type="text/css" href="../../wp-content/themes/hemmat/additional.css" />
+	<link rel="alternate" type="application/atom+xml" title="Atom" href="../../feed/atom/default.htm" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/default.htm" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/default.htm" />
+	<link rel="pingback" href="http://www.hemmat110.com/xmlrpc.php" />
+	<link rel="stylesheet" href="../../wp-content/themes/hemmat/print.css" type="text/css" media="print" />
+	<link rel="alternate" type="application/rss+xml" title="خیریه همت RSS Feed" href="../../feed/default.htm" />
+	<link rel="pingback" href="http://www.hemmat110.com/xmlrpc.php" />
+
+		<link rel='archives' title='می 2019' href='../../2019/05/default.htm' />
+	<link rel='archives' title='آوریل 2019' href='../../2019/04/default.htm' />
+	<link rel='archives' title='مارس 2019' href='../../2019/03/default.htm' />
+	<link rel='archives' title='فوریه 2019' href='../../2019/02/default.htm' />
+	<link rel='archives' title='ژانویه 2019' href='../../2019/01/default.htm' />
+	<link rel='archives' title='دسامبر 2018' href='../../2018/12/default.htm' />
+	<link rel='archives' title='نوامبر 2018' href='../../2018/11/default.htm' />
+	<link rel='archives' title='اکتبر 2018' href='../../2018/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2018' href='../../2018/09/default.htm' />
+	<link rel='archives' title='آگوست 2018' href='../../2018/08/default.htm' />
+	<link rel='archives' title='جولای 2018' href='../../2018/07/default.htm' />
+	<link rel='archives' title='ژوئن 2018' href='../../2018/06/default.htm' />
+	<link rel='archives' title='می 2018' href='../../2018/05/default.htm' />
+	<link rel='archives' title='آوریل 2018' href='../../2018/04/default.htm' />
+	<link rel='archives' title='مارس 2018' href='../../2018/03/default.htm' />
+	<link rel='archives' title='فوریه 2018' href='../../2018/02/default.htm' />
+	<link rel='archives' title='ژانویه 2018' href='../../2018/01/default.htm' />
+	<link rel='archives' title='دسامبر 2017' href='../../2017/12/default.htm' />
+	<link rel='archives' title='نوامبر 2017' href='../../2017/11/default.htm' />
+	<link rel='archives' title='اکتبر 2017' href='../../2017/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2017' href='../../2017/09/default.htm' />
+	<link rel='archives' title='آگوست 2017' href='../../2017/08/default.htm' />
+	<link rel='archives' title='جولای 2017' href='../../2017/07/default.htm' />
+	<link rel='archives' title='ژوئن 2017' href='../../2017/06/default.htm' />
+	<link rel='archives' title='می 2017' href='../../2017/05/default.htm' />
+	<link rel='archives' title='آوریل 2017' href='../../2017/04/default.htm' />
+	<link rel='archives' title='مارس 2017' href='../../2017/03/default.htm' />
+	<link rel='archives' title='فوریه 2017' href='../../2017/02/default.htm' />
+	<link rel='archives' title='ژانویه 2017' href='../../2017/01/default.htm' />
+	<link rel='archives' title='دسامبر 2016' href='../../2016/12/default.htm' />
+	<link rel='archives' title='نوامبر 2016' href='../../2016/11/default.htm' />
+	<link rel='archives' title='اکتبر 2016' href='../../2016/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2016' href='../../2016/09/default.htm' />
+	<link rel='archives' title='آگوست 2016' href='../../2016/08/default.htm' />
+	<link rel='archives' title='جولای 2016' href='../../2016/07/default.htm' />
+	<link rel='archives' title='ژوئن 2016' href='../../2016/06/default.htm' />
+	<link rel='archives' title='می 2016' href='../../2016/05/default.htm' />
+	<link rel='archives' title='آوریل 2016' href='../../2016/04/default.htm' />
+	<link rel='archives' title='مارس 2016' href='../../2016/03/default.htm' />
+	<link rel='archives' title='فوریه 2016' href='../../2016/02/default.htm' />
+	<link rel='archives' title='ژانویه 2016' href='../../2016/01/default.htm' />
+	<link rel='archives' title='دسامبر 2015' href='../../2015/12/default.htm' />
+	<link rel='archives' title='نوامبر 2015' href='../../2015/11/default.htm' />
+	<link rel='archives' title='اکتبر 2015' href='../../2015/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2015' href='../../2015/09/default.htm' />
+	<link rel='archives' title='آگوست 2015' href='../../2015/08/default.htm' />
+	<link rel='archives' title='جولای 2015' href='../../2015/07/default.htm' />
+	<link rel='archives' title='ژوئن 2015' href='../../2015/06/default.htm' />
+	<link rel='archives' title='می 2015' href='../../2015/05/default.htm' />
+	<link rel='archives' title='آوریل 2015' href='../../2015/04/default.htm' />
+	<link rel='archives' title='مارس 2015' href='../../2015/03/default.htm' />
+	<link rel='archives' title='فوریه 2015' href='../../2015/02/default.htm' />
+	<link rel='archives' title='ژانویه 2015' href='../../2015/01/default.htm' />
+	<link rel='archives' title='دسامبر 2014' href='../../2014/12/default.htm' />
+	<link rel='archives' title='نوامبر 2014' href='../../2014/11/default.htm' />
+	<link rel='archives' title='اکتبر 2014' href='../../2014/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2014' href='../../2014/09/default.htm' />
+	<link rel='archives' title='آگوست 2014' href='../../2014/08/default.htm' />
+	<link rel='archives' title='جولای 2014' href='../../2014/07/default.htm' />
+	<link rel='archives' title='ژوئن 2014' href='../../2014/06/default.htm' />
+	<link rel='archives' title='می 2014' href='../../2014/05/default.htm' />
+	<link rel='archives' title='آوریل 2014' href='../../2014/04/default.htm' />
+	<link rel='archives' title='مارس 2014' href='../../2014/03/default.htm' />
+	<link rel='archives' title='فوریه 2014' href='../../2014/02/default.htm' />
+	<link rel='archives' title='ژانویه 2014' href='../../2014/01/default.htm' />
+	<link rel='archives' title='دسامبر 2013' href='../../2013/12/default.htm' />
+	<link rel='archives' title='نوامبر 2013' href='../../2013/11/default.htm' />
+	<link rel='archives' title='اکتبر 2013' href='../../2013/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2013' href='../../2013/09/default.htm' />
+	<link rel='archives' title='آگوست 2013' href='../../2013/08/default.htm' />
+	<link rel='archives' title='جولای 2013' href='../../2013/07/default.htm' />
+	<link rel='archives' title='ژوئن 2013' href='../../2013/06/default.htm' />
+	<link rel='archives' title='می 2013' href='../../2013/05/default.htm' />
+	<link rel='archives' title='آوریل 2013' href='../../2013/04/default.htm' />
+	<link rel='archives' title='مارس 2013' href='../../2013/03/default.htm' />
+	<link rel='archives' title='فوریه 2013' href='../../2013/02/default.htm' />
+	<link rel='archives' title='ژانویه 2013' href='../../2013/01/default.htm' />
+	<link rel='archives' title='دسامبر 2012' href='../../2012/12/default.htm' />
+	<link rel='archives' title='نوامبر 2012' href='../../2012/11/default.htm' />
+	<link rel='archives' title='اکتبر 2012' href='../../2012/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2012' href='../../2012/09/default.htm' />
+	<link rel='archives' title='آگوست 2012' href='../../2012/08/default.htm' />
+	<link rel='archives' title='جولای 2012' href='../../2012/07/default.htm' />
+	<link rel='archives' title='ژوئن 2012' href='../../2012/06/default.htm' />
+	<link rel='archives' title='می 2012' href='../../2012/05/default.htm' />
+	<link rel='archives' title='آوریل 2012' href='../../2012/04/default.htm' />
+	<link rel='archives' title='مارس 2012' href='../../2012/03/default.htm' />
+	<link rel='archives' title='فوریه 2012' href='../../2012/02/default.htm' />
+	<link rel='archives' title='ژانویه 2012' href='../../2012/01/default.htm' />
+	<link rel='archives' title='دسامبر 2011' href='../../2011/12/default.htm' />
+	<link rel='archives' title='نوامبر 2011' href='../../2011/11/default.htm' />
+	<link rel='archives' title='اکتبر 2011' href='../../2011/10/default.htm' />
+	<link rel='archives' title='سپتامبر 2011' href='../../2011/09/default.htm' />
+	<link rel='archives' title='ژوئن 2011' href='../../2011/06/default.htm' />
+	<link rel='archives' title=' 0' href='../../2019/05/default.htm' />
+<!-- Yandex.Metrika counter -->
+<!--ipt type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51734969, "init", {
+        id:51734969,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</scri-->
+<noscript><div><img src="../../../https@mc.yandex.ru/watch/51734969" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="../../../https@www.googletagmanager.com/gtag/js@id=UA-131416601-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131416601-1');
+</script>
+
+
+	<script src="../../../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){ 
+			
+		$(window).scroll(function(){
+			if ($(this).scrollTop() > 100) {
+				$('.scrollup').fadeIn();
+			} else {
+				$('.scrollup').fadeOut();
+			}
+		}); 
+			
+		$('.scrollup').click(function(){
+			$("html, body").animate({ scrollTop: 0 }, 600);
+			return false;
+		});
+ 
+		});
+	</script>
+	  
+
+
+<!--	<div style="position:fixed; top:300px; left:0;">
+		<a href="http://www.hemmat110.com/?p=9715">
+			<img src="http://www.hemmat110.com/wp-content/uploads/2015/01/720-new.png" width="138" height="176" border="0" />
+		</a>
+	</div>-->
+	
+
+</head>
+<body>
+
+<!--------->
+
+<div class="warp">
+<div class="index">
+
+	<div class="center">
+	<div class="news">
+		<div class="news-text">
+							<center><p style="text-align: center;">امام رضا علیه السلام: هر کس <span style="color: #ff0000;"><strong>گِرِه</strong> </span>از کارِ مؤمنی بگشاید <strong><span style="color: #008000;">خداوند</span> </strong>هم در <strong><span style="color: #0000ff;">قیامت</span></strong>، کار بسته او را می گشاید</p>
+</center>
+					</div>
+	</div>
+	
+	<div class="left">
+		<div class="c-l">
+			<div class="content_l">
+			<div class="text-post">
+			  <p>
+			  					<div class="textwidget"><div dir="auto">خیریه همت با اولويت گره گشایی موثر از خانواده هاي نيازمند تاسيس شده است و موضوعات با همفکری دوستان بررسی و به شکل مقتضی اقدام می شود.</div>
+<div dir="auto">خیریه همت رسانه مهربانی است و شعار محوری آن این است:</div>
+<div dir="auto">#یک_خانواده_هستیم</div>
+</div>
+		  
+			  </p>
+				
+			<br>
+			<center>
+			<g:plusone size="standard" ></g:plusone>
+			</center>
+			<br>
+
+		      </div>
+			  <div class="line"></div>
+				<div align="center">
+			  		امروز پنج شنبه ۲۶ اردیبهشت ۱۳۹۸<br />
+				</div>
+			  <div class="line"></div>
+			  <div align="center">
+				
+					<a href="../../feed/default.htm" target="_blank">
+						<img src="../../wp-content/themes/hemmat/images/feed.gif" border="0" />
+					</a>
+					<a href="../../../https@twitter.com/hemmat110">
+						<img src="../../wp-content/uploads/2017/03/twitter.png" border="0" />
+					</a>
+					<a href="mailto:hemmat1390@gmail.com" target="_blank">
+						<img src="../../wp-content/themes/hemmat/images/mail.gif" border="0" />
+					</a>
+					<a href="../../../m.hemmat110.com/default.htm" target="_blank">
+						<img src="../../wp-content/themes/hemmat/images/mob.gif" border="0" />
+					</a>
+					
+					<div class="clear"></div>
+					<div class="line"></div>
+					
+				  <a href="../../../https@www.instagram.com/hemmat110/default.htm" target="_blank">
+					  <img src="../../wp-content/themes/hemmat/images/ico/instagram.png" border="0" />				  </a>
+				  <a href="../../../https@www.facebook.com/hemmatt110" target="_blank">
+					  <img src="../../wp-content/themes/hemmat/images/ico/facebook.png" border="0" />				  </a>
+				  <a href="../../../https@twitter.com/hemmat_charity" target="_blank">
+					  <img src="../../wp-content/themes/hemmat/images/ico/twitter.png" border="0" />				  </a>
+				  <a href="../../../https@telegram.me/hemmat110" target="_blank">
+					  <img src="../../wp-content/uploads/2016/06/telegram-32.jpg" border="0" />				  </a>
+				  <a href="../../../www.aparat.com/hemmat_charity" target="_blank">
+					  <img src="../../wp-content/themes/hemmat/images/ico/aparat.png" border="0" />				  </a>
+				  <a href="#" target="_blank">
+					  <img src="../../wp-content/themes/hemmat/images/ico/googleplus.png" border="0" />				  </a>				</div>
+				<div class="clear"></div>
+			  <div class="line"></div>
+				
+			  <div class="text-post">			  
+			  <div class="em">
+			  	
+				<form method="get" id="searchform" action="http://www.hemmat110.com/">
+				<div class="em-b">
+				<div class="em-text-">
+					<input type="text" class="em-d-input" value="" name="s" id="s" style="text-align:right;"/>
+					<input type="submit" class="em-send-input" id="searchsubmit" value="جستجو" />
+				</div>
+				<div class="search"></div>
+				</div>
+			    </form>
+				
+				<div class="clear"></div>
+				
+				<br>
+				<h2>جهت دریافت آخرین اخبار ایمیل خود را وارد نمایید</h2>
+			  	
+				<div class="em-b">
+				<div class="em-text-">
+
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onSubmit="window.open('../../../feedburner.google.com/fb/a/mailverify@uri=hemmat110_2FJPzx', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+									
+					<input type="text" name="email" class="em-d-input" value=" "/>					
+					<input type="hidden" value="hemmat" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					
+					<input type="submit" class="em-send-input" value="ثبت کن"/>
+					
+					
+				</form>
+				
+				</div>
+				<div class="mail_"></div>
+				
+				</div>
+				
+				<br>
+				<h2>
+					جهت دریافت فراخوان های خیریه همت شماره موبایل و مشخصات خود را به شماره </br></br>
+					<span class="h2b"><!--۳۰۰۰۱۰۴۰-->30001040</span>
+					ارسال نماييد.
+				</h2>
+							
+				
+				<div class="clear"></div>
+			  </div>
+		      </div>
+			  <div class="clear"></div>
+			</div>
+			<div class="contentl_logo"><img src="../../wp-content/themes/hemmat/images/h.gif" width="50" height="67" /></div>
+			<div class="clear"></div>
+		</div>
+		
+		
+		<div class="c-l">
+			<div class="content_l">
+
+						<div id="social">
+						
+                        	<ul>
+                        		<li class="feedicon"><a href="#"></a></li>
+								<li class="twittericon"><a href="#"></a></li>
+								<li class="buzzicon"><a href="#"></a></li>
+								<li class="emailicon"><a href="#"></a></li>
+                        	</ul>
+							
+							<div class="info-wrapper">
+								<div class="inner-info">
+									<span id="top-arrow"></span>
+									<div class="feedinfo">
+									<br>
+										<p>
+	   		          		          <p style="padding:3px 5px; border:1px solid #000000;">شماره کارت</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">5041721062806279</p>
+											
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره مشتري</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">-</p>
+											  
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره شبا</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">IR470700032700225281250003</p>
+										</p>
+									</div>
+									<div class="twitterinfo">
+									<br>
+										<p>
+	          		                  <p style="padding:3px 5px; border:1px solid #000000;">شماره حساب</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">4436044904</p>
+											
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره کارت</p>
+											  <!--<p style="background-color:#FFA8A8; padding:3px 5px; direction:ltr;">6104-3377-7007-8523</p>-->
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">-</p>
+											  
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره شبا</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">IR 070120 00000000 4436044904</p>
+										</p>
+									</div>
+									<div class="buzzinfo">
+									<br>
+										<p>
+							          		  <p style="padding:3px 5px; border:1px solid #000000;">شماره حساب</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">14005119004</p>
+											  
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره كارت</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">6280-2314-2597-2709</p>
+											  
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">شماره شبا</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px;">IR 320140040000014005119004</p>
+										</p>
+									</div>
+									<div class="emailinfo">
+									<br>
+										<p>
+							          		  <p style="padding:3px 5px; border:1px solid #000000; color:#000000;">شماره حساب</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px; color:#000000;">11101101</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px; color:#000000;">شماره كارت</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px; color:#000000;">-</p>
+ 
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px; color:#000000;">شماره شبا</p>
+											  <p style="padding:3px 5px; border:1px solid #000000; border-top:0px; color:#000000;">IR
+											  580570027311011110110001
+											  </p>
+										</p>
+									</div>
+									
+
+								</div>
+							</div>
+							
+                        </div>
+					
+			  <div class="clear"></div>
+			  <div class="line"></div>
+
+			  <div align="center">
+
+				<a href="../../payment-new" target="_blank">
+				<img src="../../wp-content/uploads/2013/05/payment_end.jpg" width="240" height="120" border="0">				</a>			  </div>
+			  
+			  <div class="text-post">
+			  <div align="center">
+					     
+								  </div>
+			  </div>
+			  <div class="clear"></div>
+			</div>
+			<div class="contentl_logo"><img src="../../wp-content/themes/hemmat/images/banks.gif" /></div>
+			<div class="clear"></div>
+		</div>
+		
+				
+				
+		<div class="c-l">
+			<div class="content_l">
+			  <div class="text-post">
+					افراد آنلاین : 2<br />
+					بازدید امروز : 624<br />
+					بازدید دیروز : 3627<br />
+					بازدید کل : 1941681<br />
+					تاریخ آخرین به روز رسانی : ۲۵ اردیبهشت ۱۳۹۸<br />
+		      </div>
+			  <div class="line"></div>
+			  <div class="text-post">
+			  <div align="center">
+					<h1>از خیریه همت حمایت کنید</h1>			<div class="textwidget"><div align="center">
+
+<center>
+<a href="../../default.htm">
+<img class="alignnone" style="border: 0px;" alt="" src="../../wp-content/uploads/2012/12/120-120-2.png" width="120" height="120" border="0" />
+</a>
+<br>
+<input class="input" type="logos" value="&lt;center&gt;&lt;a href=&quot;http://www.hemmat110.com/&quot;&gt;&lt;img src=../../wp-content/uploads/2012/12/120-120-2.png&quot; alt=&quot;&quot; width=&quot;120&quot; height=&quot;120&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/center&gt;" />
+</center>
+
+</div>
+</div>
+					<div class="textwidget"><p>جهت <a href="../../support/default.htm"> حمایت</a> از « خیریه همت » کد بالا را در وب سایت خود قرار دهید.</p>
+</div>
+					  </div>
+			  </div>
+			  <div class="clear"></div>
+			</div>
+			<div class="contentl_logo"><img src="../../wp-content/themes/hemmat/images/amar.gif" /></div>
+			<div class="clear"></div>
+		</div>
+				
+		<div class="c-l">
+			<div class="content_l">
+			  <div class="text-post">
+			  <div align="center">
+								<div class="textwidget"><video width="270px" controls>
+  <source src="../../wp-content/uploads/2018/12/yalda-97.mov" type="video/ogg">
+</video></div>
+					  </div>
+			  </div>
+			  <div class="clear"></div>
+			</div>
+			<div class="contentl_logo"><a href="../../../www.aparat.com/hemmat_charity"><img src="../../wp-content/themes/hemmat/images/video.gif" /></a></div>
+			<div class="clear"></div>
+		</div>		
+	</div>
+	
+	<div class="right">
+		<div class="c-r">
+		
+						        						
+		
+			<div class="content_r">
+			  <div class="date" style="text-align:center;">۲۵ اردیبهشت ۱۳۹۸</div>
+			  <div class="line"></div>
+			  <div class="title-post"><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d8_25b6_25d8_25b1_25d9_2588_25d8_25b1_25db_258c-_25d8_25a8_25d8_25_05F5F49D4C">کمک ضروری برای وضعیت بد یک خانواده</a></div>
+			  <div class="line"></div>
+		      <div class="text-post">
+
+				<p>سلام و خداقوت</p>
+<p>این فراخوان برای کمک ضروری به خانواده ای مستاصل و گرفتار است.</p>
+<p>پدر ۵۸ ساله به دلیل بیماری اعصاب و روان زمین گیر و خانه نشین است.</p>
+<p>۲فرزند دارد و ناچیز درآمد و با کمک برخی خیرین و یارانه به سختی امرار معاش می کنند.</p>
+<p>در اپارتمانی قدیمی و کوچک مستاجرند در یکی ازمناطق ضعیف تهران که فشار صاحبخانه و افزایش کرایه آنها را مستاصل کرده است.</p>
+<p>همت کنید برای کمک ضروری به وضعیت اضطراری این خانواده</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>تذکر مهم</strong></span></p>
+<p style="text-align: center;">در صورت عبور کمکها از سقف مورد نیاز صرف موارد بعدی خواهد شد</p>
+				<br>
+				<g:plusone size="tall" href="http://www.hemmat110.com/1398/02/%da%a9%d9%85%da%a9-%d8%b6%d8%b1%d9%88%d8%b1%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d8%a8%d8%af-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%88%d8%a7%d8%af%d9%87/"></g:plusone>
+												
+		      </div>
+			  <div class="comment-box"><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d8_25b6_25d8_25b1_25d9_2588_25d8_25b1_25db_258c-_25d8_25a8_25d8_25_0E807BECF0#respond">بدون دیدگاه</a></div>
+			  <div class="clear"></div>
+			  <div class="line"></div>
+			  <div class="more"><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d8_25b6_25d8_25b1_25d9_2588_25d8_25b1_25db_258c-_25d8_25a8_25d8_25_05F5F49D4C">ادامه مطلب</a></div>
+			  <div class="clear"></div>
+			</div>
+			
+								
+							
+			<div class="contentr_logo"><img src="../../wp-content/themes/hemmat/images/we.gif" /></div>
+			<div class="clear"></div>
+		</div>
+		
+		<div class="c-r">
+			<div class="content_r-link">
+				<ul>
+										<li><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d8_25b6_25d8_25b1_25d9_2588_25d8_25b1_25db_258c-_25d8_25a8_25d8_25_05F5F49D4C">کمک ضروری برای وضعیت بد یک خانواده</a></li>
+										<li><a href="../../1398/02/_25da_25af_25d8_25b2_25d8_25a7_25d8_25b1_25d8_25b4-_25d9_2585_25d9_2587_25d8_25b1_25d8_25a8_25d8_25a7_25d9_2586_25db_258c-97/default.htm">گزارش مهربانی ۲۹۸۴</a></li>
+										<li><a href="../../1398/02/_25d8_25aa_25d9_2587_25db_258c_25d9_2587-_25d8_25af_25d8_25b3_25d8_25aa_25da_25af_25d8_25a7_25d9_25801E9A58DCD">دستگاه اکسیژن ساز برای بیمار ریوی+این پرونده بسته شد</a></li>
+										<li><a href="../../1398/02/_25da_25af_25d8_25b2_25d8_25a7_25d8_25b1_25d8_25b4-_25d9_2585_25d9_2587_25d8_25b1_25d8_25a8_25d8_25a7_25d9_2586_25db_258c-96/default.htm">گزارش مهربانی</a></li>
+										<li><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d9_2587_25d8_25b2_25db_258c_25d9_2586_25d9_2587-_25d8_25af_25d8_25_0BAFBE5DEB">کمک هزینه درمان پدر بیمار+این پرونده بسته شد</a></li>
+										<li><a href="../../1398/02/_25da_25af_25d8_25b2_25d8_25a7_25d8_25b1_25d8_25b4-_25d9_2585_25d9_2587_25d8_25b1_25d8_25a8_25d8_25a7_25d9_2586_25db_258c-95/default.htm">گزارش مهربانی</a></li>
+										<li><a href="../../1398/02/_25da_25a9_25d9_2585_25da_25a9-_25d9_2587_25d8_25b2_25db_258c_25d9_2586_25d9_2587-_25d8_25aa_25d9_25_0697FD6DCB">کمک هزینه سرپناه خانواده نیازمند+این پرونده بسته شد</a></li>
+										<li><a href="../../1398/02/_25da_25af_25d8_25b2_25d8_25a7_25d8_25b1_25d8_25b4-_25d9_2585_25d9_2587_25d8_25b1_25d8_25a8_25d8_25a7_25d9_2586_25db_258c-94/default.htm">گزارش مهربانی ۲۹۸۱</a></li>
+										<li><a href="../../1398/02/_25d9_2587_25d8_25b2_25db_258c_25d9_2586_25d9_2587-_25d8_25aa_25d8_25b2_25d8_25b1_25db_258c_25d9_2580DC45AFD47">تزریق سلولهای بنیادین به۲کودک فلج مغزی+این پرونده بسته شد</a></li>
+										<li><a href="../../1398/02/_25da_25af_25d8_25b2_25d8_25a7_25d8_25b1_25d8_25b4-_25d9_2585_25d9_2587_25d8_25b1_25d8_25a8_25d8_25a7_25d9_2586_25db_258c-93/default.htm">گزارش مهربانی</a></li>
+									</ul>
+			</div>
+			<div class="contentr_logo"><img src="../../wp-content/themes/hemmat/images/l.gif" /></div>
+			<div class="clear"></div>
+		</div>
+		
+		
+				
+		<div class="c-r">
+			<div class="content_r">
+				<div class="text-post" align="center">
+					<h1>  </h1><div id="polls-13" class="wp-polls">
+	<form id="polls_form_13" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_13_nonce" name="wp-polls-nonce" value="5ed08c9cc0" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="13" /></p>
+		<h1>مطالب سايت تا چه حد برايتان مفيد است؟</h1>
+<div id="polls-13-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-38" name="poll_13" value="38" /> <label for="poll-answer-38">كاملاً مفيد</label></li>
+		<li><input type="radio" id="poll-answer-37" name="poll_13" value="37" /> <label for="poll-answer-37">تاحدودي مفيد</label></li>
+		<li><input type="radio" id="poll-answer-36" name="poll_13" value="36" /> <label for="poll-answer-36">اصلاً مفيد نبود</label></li>
+		</ul>
+<input type="button" name="vote" value="بسم الله" class="pollsend" onclick="poll_vote(13);" />
+<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(13); return false;" title="نتایج این نظرسنجی را مشاهده کنید">مشاهده نتایج</a></p>
+</div>
+	</form>
+</div>
+<div id="polls-13-loading" class="wp-polls-loading"><img src="../../wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+				</div>
+			</div>
+			<div class="contentr_logo"><img src="../../wp-content/themes/hemmat/images/poll.gif" /></div>
+			<div class="clear"></div>
+		</div>
+
+				
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="bottom_logo"><img src="../../wp-content/themes/hemmat/images/sites.gif" /></div>
+	<div class="bottom">
+		<div align="center">
+			     
+						
+		        <ul>
+				
+								
+				<li><a href="../../../www.asriran.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/asriranlogo.png"  alt="عصر ايران"  /></a></li>
+<li><a href="../../../bultannews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/bultannewslogo.png"  alt="بولتن نيوز"  /></a></li>
+<li><a href="../../../fardanews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/fardanewslogo.png"  alt="فردا نيوز"  /></a></li>
+<li><a href="../../../robefarda.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/02/robefardalogo.jpg"  alt="رو به فردا"  /></a></li>
+<li><a href="../../../www.javanonline.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/javanonlinelogo.png"  alt="جوان آنلاين"  /></a></li>
+<li><a href="../../../www.yjc.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/yjclogo.png"  alt="باشگاه خبرنگاران"  /></a></li>
+<li><a href="../../../jahannews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/jahannewslogo.png"  alt="جهان نيوز"  /></a></li>
+<li><a href="../../../www.shafaf.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/shafaflogo.png"  alt="شفاف"  /></a></li>
+<li><a href="../../../www.tabnak.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/tabnaklogo.png"  alt="تابناك"  /></a></li>
+<li><a href="../../../www.alef.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/aleflogo.png"  alt="الف"  /></a></li>
+<li><a href="../../../www.eghtesadeiranonline.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/eghtesadiranonlinelogo.png"  alt="اقتصاد آنلاين"  /></a></li>
+<li><a href="../../../mashreghnews.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/mashreghlogo.png"  alt="مشرق نيوز"  /></a></li>
+<li><a href="../../../www.niksalehi.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/niksalehilogo.png"  alt="نيك صالحي"  /></a></li>
+<li><a href="../../../www.parsine.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/parsinehlogo.png"  alt="پارسينه"  /></a></li>
+<li><a href="../../../safirnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/safirlogo.png"  alt="سفير نيوز"  /></a></li>
+<li><a href="../../../www.seratnews.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/seratlogo.png"  alt="صراط نيوز"  /></a></li>
+<li><a href="../../../www.taamolnews.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/taamollogo.png"  alt="تعامل نيوز"  /></a></li>
+<li><a href="../../../www.598.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/01/598logo.jpg"  alt="598"  /></a></li>
+<li><a href="../../../www.armageddon.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/armagdonlogo2.jpg"  alt="آرماگدون"  /></a></li>
+<li><a href="../../../enghelab-news.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/10/enghelab-newslogo.jpg"  alt="انقلاب نيوز"  /></a></li>
+<li><a href="../../../aftabnews.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/06/aftabnews.jpg"  alt="آفتاب نیوز"  /></a></li>
+<li><a href="../../../shiayan.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/07/shiayanogo.gif"  alt="شيعيان"  /></a></li>
+<li><a href="../../../rooyeshnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/08/rooyeshnewslogo.jpg"  alt="رويش نيوز"  /></a></li>
+<li><a href="../../../www.entekhab.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/10/entekhablogo.jpg"  alt="انتخاب"  /></a></li>
+<li><a href="../../../doctoreman.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/08/doctoremanlogo.jpg"  alt="دكتر من"  /></a></li>
+<li><a href="../../../nateghan.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/12/nateghanlogo.jpg"  alt="ناطقان"  /></a></li>
+<li><a href="../../../www.shabestan.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/09/shabestanlogo.jpg"  alt="شبستان"  /></a></li>
+<li><a href="../../../8sobh.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/09/8sobhlogo.jpg"  alt="هشت صبح"  /></a></li>
+<li><a href="../../../www.hadidnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/10/hadidnewslogo.jpg"  alt="حديد نيوز"  /></a></li>
+<li><a href="../../../haraa.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/10/haralogo.jpg"  alt="حرا"  /></a></li>
+<li><a href="../../../maadna.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/08/maadnalogo.jpg"  alt="مادنا"  /></a></li>
+<li><a href="../../../mediamgt.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/07/mediamgico.jpg"  alt="مدیریت رسانه"  /></a></li>
+<li><a href="../../../www.farsnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/09/farsnewslogo.jpg"  alt="فارس نيوز"  /></a></li>
+<li><a href="../../../www.mobfa.org/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2013/12/mobfalogo.jpg"  alt="موب فا"  /></a></li>
+<li><a href="../../../tik.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/tiklogo.jpg"  alt="تيك"  /></a></li>
+<li><a href="../../../sobhanehonline.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/sobhanehlogo.jpg"  alt="صبحانه آنلاين"  /></a></li>
+<li><a href="../../../jadazaruniv.blogfa.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/jadlogo.jpg"  alt="جاد"  /></a></li>
+<li><a href="../../../fimna.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/Fimnalogo.jpg"  alt="فمينا"  /></a></li>
+<li><a href="../../../www.taghvim96.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/09/taghvim96.jpg"  alt="تقویم 96"  /></a></li>
+<li><a href="../../../propozal.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/01/propozallogo.jpg"  alt="پروپوزال"  /></a></li>
+<li><a href="../../../roozno.com/fa/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/05/rooznologo.jpg"  alt="روز نو"  /></a></li>
+<li><a href="../../../www.yasdl.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/08/yasdllogo.jpg"  alt="یاس دانلود"  /></a></li>
+<li><a href="../../../nasimonline.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/11/nasimonlinelogo.jpg"  alt="نسیم آنلاین"  /></a></li>
+<li><a href="../../../www.khabarvarzeshi.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2017/02/khabarvarzeshiico.jpg"  alt="خبر ورزشی"  /></a></li>
+<li><a href="../../../intamedia.blog.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/07/intamedialogo.jpg"  alt="پایگاه فرهنگ مالیاتی کشور"  /></a></li>
+<li><a href="../../../www.tasnimnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/05/tasnimnewslogo.jpg"  alt="تسنيم"  /></a></li>
+<li><a href="../../../www.shamdani.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/05/shamdanilogo.jpg"  alt="شمعداني"  /></a></li>
+<li><a href="../../../downloadketab.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/05/downloadketablogo.jpg"  alt="دانلود كتاب"  /></a></li>
+<li><a href="../../../www.setarehnews.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/06/setarehnewslogo.jpg"  alt="ستاره ها"  /></a></li>
+<li><a href="../../../bankdariirani.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/12/bankdariiranilogo.jpg"  alt="بانكداري ايراني"  /></a></li>
+<li><a href="../../../khabar8.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/07/khabar8.jpg"  alt="خبر 8"  /></a></li>
+<li><a href="../../../www.parsnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/07/parsnews.jpg"  alt="پارس نيوز"  /></a></li>
+<li><a href="../../../www.teribon.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/09/teribon.jpg"  alt="تريبون"  /></a></li>
+<li><a href="../../../www.modiriatefarda.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/05/modiriatefardalogo.jpg"  alt="مديريت فردا"  /></a></li>
+<li><a href="../../../www.asibha.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/10/logoasibha2.jpg"  alt="انجمن پيشگيري از آسيب هاي اجتماعي"  /></a></li>
+<li><a href="../../../www.mehrnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/09/mehrnewslogo.jpg"  alt="مهر نيوز"  /></a></li>
+<li><a href="../../../isabk.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2015/11/isabklogo.jpg"  alt="آي سبك"  /></a></li>
+<li><a href="../../../4kia.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/02/4kialogo.jpg"  alt="4كيا"  /></a></li>
+<li><a href="../../../madaraneh.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2016/02/madaranehlogo.jpg"  alt="مادرانه"  /></a></li>
+<li><a href="../../../aghigh.ir/default.htm" rel="nofollow" title="one" target="_blank"><img src="../../wp-content/uploads/2014/01/aghighlogo.jpg"  alt="عقيق"  title="one" /></a></li>
+<li><a href="../../../barghnews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/02/barghnewslogo.jpg"  alt="برق نيوز"  /></a></li>
+<li><a href="../../../rajanews.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2012/12/rajanewslogo.png"  alt="رجا نيوز"  /></a></li>
+<li><a href="../../../behtarinkhabar.ir/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/03/behtarinkhabarlogo.jpg"  alt="بهترين خبر"  /></a></li>
+<li><a href="../../../biographyha.com/default.htm" rel="nofollow"><img src="../../wp-content/uploads/2014/04/biographyhalogo.jpg"  alt="بيوگرافي ها"  /></a></li>
+				<div class="clear"></div>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	</div>
+	
+		<div class="sidebar">
+			<a href="../../default.htm">
+				<div class="logo">
+					<img src="../../wp-content/uploads/2016/04/logo_29900.png" width="185" height="311" border="0" />				</div>
+			</a>
+			<div class="clear"></div>
+			<!--<div class="allah"></div>-->
+			<div align="center" style="margin-bottom:15px;">
+				<a href="../../wp-content/uploads/2013/09/iso9001.jpg">
+					<img src="../../wp-content/uploads/2013/09/iso9001.png" border="0">
+				</a>
+			</div>
+			
+			<div class="clear"></div>
+			<div class="right-menu">
+			<div class="menu_1"></div>
+			<div class="menu_2">
+			<div class="menu-shadow">
+					   <div class="menu-%d9%85%d9%86%d9%88-container"><ul id="menu-%d9%85%d9%86%d9%88" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5"><a href="../../default.htm">صفحه نخست</a></li>
+<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1343"><a href="../../about/default.htm">انجمن خیریه همت »</a>
+<ul class="sub-menu">
+	<li id="menu-item-1444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1444"><a href="../../about/default.htm">درباره خیریه همت</a></li>
+	<li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a href="../../statute/default.htm">اساسنامه</a></li>
+	<li id="menu-item-2209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2209"><a href="../../licenses/default.htm">مجوز</a></li>
+	<li id="menu-item-1188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1188"><a href="../../topic/reflections/default.htm">بازتاب</a></li>
+	<li id="menu-item-6043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6043"><a href="../../topic/announcement/_25d9_2585_25d8_25b7_25d8_25a7_25d9_2584_25d8_25a8-_25d9_2585_25d9_2581_25db_258c_25d8_25af/default.htm">مطالب مفید</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="../../faq/default.htm">سئوالات متداول</a></li>
+</ul>
+</li>
+<li id="menu-item-1340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1340"><a href="../../contactus/default.htm">ارتباط با ما</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="../../topic/announcement/default.htm">اطلاعیه ها</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-43"><a href="../../topic/report/default.htm">گزارش مهربانی »</a>
+<ul class="sub-menu">
+	<li id="menu-item-6526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6526"><a href="../../topic/report/default.htm">گزارش مهربانی</a></li>
+	<li id="menu-item-6508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6508"><a href="../../namaye-hemmat/default.htm">نمایه</a></li>
+	<li id="menu-item-10625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10625"><a href="../../topic/report/nava-nama/default.htm">نوا و نما</a></li>
+</ul>
+</li>
+<li id="menu-item-7716" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7716"><a href="../../topic/culture-vows/default.htm">نذر فرهنگی »</a>
+<ul class="sub-menu">
+	<li id="menu-item-9590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9590"><a href="../../1393/10/_25D8_25B5_25D9_2586_25D8_25AF_25D9_2588_25D9_2582-_25D8_25B2_25DB_258C_25D8_25A7_25D8_25B1_25D8_25A06A0F4DD35">صندوق زیارت</a></li>
+</ul>
+</li>
+<li id="menu-item-1217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217"><a href="../../payment-new">کمک آنلاین</a></li>
+<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2119"><a href="../../support/default.htm">حمایت کنید</a></li>
+</ul></div>			</div>
+			</div>
+			<div class="menu_3"></div>
+			<div class="clear"></div>
+		</div>
+		
+		<div class="clear"></div>
+		
+		<!--<h6>عملکرد یک میلیاردی</h6>
+		
+		<div class="history">
+			<ul>
+				<li>
+					     
+									</li>
+			</ul>
+		</div>-->
+		
+		
+		<div class="clear"></div>
+		
+		<h6>نمایه همت تا این لحظه</h6>
+		<div class="counter">
+			<ul>
+				<div class="g">گزارش مهربانی</div>
+				<li>
+								<div class="textwidget"><p>2939 مورد</p>
+</div>
+						</li>
+				<div class="line3"></div>
+				<div class="r">ارزش ریالی</div>
+				<li>
+								<div class="textwidget"><p>106,304,788,700</p>
+</div>
+						</li>
+			</ul>
+		</div>
+
+	<div align="center">
+		<a href="../../../https@telegram.me/hemmat110">
+			<img src="../../wp-content/uploads/2016/08/telegram_hemmat-chanel2.png" width="160" height="213" border="0" />
+		</a>
+	</div>
+		
+		<div class="clear"></div>
+	</div>	
+	<div class="clear"></div>
+</div>
+
+<a href="#" class="scrollup">برو بالا</a>
+
+
+<div class="clear"></div>
+		
+<script type='text/javascript'>function ctSetCookie(c_name, value, def_value){document.cookie = c_name + '=' + escape(value) + '; path=/';}ctSetCookie('ct_checkjs', '1094414773', '0');</script><script type='text/javascript'>
+/* <![CDATA[ */
+var ctNocache = {"ajaxurl":"../../wp-admin/admin-ajax.php","info_flag":"","set_cookies_flag":"1","blog_home":"../../default.htm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cleantalk-spam-protect/inc/cleantalk_nocache.js@ver=5.98'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"../../wp-admin/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-polls/polls-js.js@ver=2.73.8'></script>
+<script type='text/javascript' src='../../wp-includes/js/wp-embed.min.js@ver=4.9.8'></script>
+		
+<div class="fotter">
+	<div class="fotter-bg">
+	
+		<div class="fr">
+			<ul>
+				<div class="title-dumplink">پیشنهاد همت</div><div class="boxd">
+	<ul class='xoxo blogroll'>
+<li><a href="../../../mehrnews.com/news/2929956/_25D8_25A7_25DB_258C_25D9_2586-_25D8_25AE_25DB_258C_25D8_25B1_25DB_258C_25D9_2587-_25D9_2585_25D8_25_087C3D01B4" rel="nofollow" title="خیریه «عترت فاطمی» خیریه‌ای خوشنام و قدیمی است که تا چند روز آینده ۱۵ سالگی خود را جشن می‌گیرد. این خیریه یک فرق بزرگ با بقیه خیریه ها دارد؛ افراد تحت حمایت این خیریه فقط و فقط از سادات هستند! ">این خیریه مخصوص سادات است</a></li>
+<li><a href="../../../weblognews.ir/news/39790/default.htm" rel="nofollow">این نگاه مثبت نتیجه «لطف خاص خداوند» است</a></li>
+<li><a href="../../../farsi.khamenei.ir/news-content@id=20035" rel="nofollow" target="_blank">بخش عمده اي از ثوابها مال همسران است</a></li>
+<li><a href="../../../www.asriran.com/fa/news/413349/_25D8_25B4_25D9_2587_25D8_25B1_25DB_258C_25D9_2588_25D8_25B1-_25D8_25A7_25D9_2585_25D8_25B3_25D8_25A09466CA396" rel="nofollow" title="مقرر شد کمیته ای مرکب از مدیران سایت ها به انتخاب خودشان تشکیل شود. این کمیته وظیفه خواهد داشت بر نحوه مصرف پول هایی که مردم برای رفع سوء تغذیه کودکان فقیر زیر 6 سال در اختیار کمیته امداد قرار می دهند نظارت کند و گزارش عملکرد کمیته امداد در این خصوص را در">شهریور امسال؛ آغاز نجات 400 هزار کودک ایرانی</a></li>
+<li><a href="../../../gerdab.ir/fa/news/16458/_25DA_2586_25DA_25AF_25D9_2588_25D9_2586_25D9_2587-_25D8_25A2_25D9_2586_25D9_2584_25D8_25A7_25DB_2580714016703" rel="nofollow" title="موسسات خیریه علاوه بر روش های سنتی، به دریافت کمک های مردمی از طریق فضای مجازی نیز اقدام می کنند.">فضای مجازی، بستری برای کار خیر</a></li>
+<li><a href="../../../www.asriran.com/fa/news/412383/_25DA_25A9_25D8_25A7_25D8_25B1_25DB_258C-_25D9_2585_25D8_25AA_25D9_2581_25D8_25A7_25D9_2588_25D8_25A0E3A9F111E" rel="nofollow" title="موسسه خیریه امام هادی(ع) با تولید انیمیشنی زیبا و حرفه ای به کارگردانی بهرام عظیمی، به موضوع یتیم پرداخته است. این اثر که &#8220;بابا&#8221; نام دارد هر چند در قالب انیمیشن، است ولی مخاطب اصلی آن بزرگسالان است.">کاری متفاوت و زیبا از یک خیریه</a></li>
+
+	</ul>
+<div class="clear"></div>
+			</ul>
+
+			<div class="clear"></div>
+		</div>
+		
+
+			
+		<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<script type='text/javascript' src='../../wp-content/themes/hemmat/js/jquery/jquery.js@ver=1.7.2'></script>
+<script type="text/javascript" src="../../wp-content/themes/hemmat/js/script.js"></script>
+
+<div class="ef">
+	<div class="copy-right">
+		<a href="../../default.htm">صفحه نخست</a>  |
+		<a href="../../about">درباره همت </a> |
+		<a href="../../contactus">ارتباط با ما </a> |
+		<a href="../../support">حمایت کنید</a>  |
+		<a href="javascript:window.external.AddFavorite('../../_25D8_25A7','همت')">همت را به علاقه مندی های خود اضافه کنید</a> |
+		طراحی و پشتیبانی <a href="../../../www.mojdehstudio.ir/default.htm" target="_blank">ذاکرین</a>
+	</div>
+</div>
+</div>
+
+<div style="position: absolute; top:2300px; width: 200px; left:0px;">
+
+<img id='drfthwlargvlwmcsbrgw' style='cursor:pointer' onclick='../../window.open(_2522https_3A//trustseal.enamad.ir/Verify.aspx@id=14586&p=nbpdodshyncraqgwhwmb_2522, _2522Popup_2522,_2522toolbar=no, location=no, statusbar=no, menubar039E1D69F5' alt='' src='../../../https@trustseal.enamad.ir/logo.aspx@id=14586&p=lznbaodsfujyukaqkzoe'/>
+
+<!--<iframe src="/eNamadLogo.htm" frameborder="0" scrolling="no" allowtransparency="true" style="width: 150px; height:150px;"></iframe>-->
+
+</div>
+
+<!--------->
+
+</body>
+</html>

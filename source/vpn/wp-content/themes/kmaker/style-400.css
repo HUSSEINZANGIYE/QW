@@ -1,0 +1,59 @@
+.pricingtables .panel, .statistics span {
+	width: 100%;
+	margin-right: 20px;
+	margin-left: 20px;
+	background: transparent !important;
+	border: 1px solid #bfbfbf;
+}
+     .pricingtables ul li {
+         padding: 5px 0 !important;
+    }
+     .pricingtables, .panel-body {
+         padding: 0px !important;
+		 display: flex;
+    }
+     .pricingtables .panel-body span {
+         padding: 0px !important;
+         font-size: 15px !important;
+		 padding-top: 15px !important;
+    }
+     .pricingtables .panel-body span.per {
+         background: transparent !important;
+		 display: flex;
+         padding: 0px !important;
+		 padding-top: 15px !important;
+    }
+     .pricingtables .most-popular .panel-body span.per {
+         background: transparent !important;
+		 padding-top: 15px !important;
+    }
+	.pricingtables .most-popular .panel-body {
+	display: flex;
+}
+
+.panel-footer {
+    padding: 0;
+}
+
+.pricingtables h4 {
+    font-size: 35px !important;
+    letter-spacing:0 !important;
+	padding: 10px 0 10px !important;
+}
+.vc_col-lg-offset-1 {
+    margin-right:0 !important;
+}
+
+.slicknav_nav .slicknav_arrow {
+	font-size: 0.8em;
+	margin: 0 0.4em 0 0.4em;
+	float: right;
+}
+
+.slicknav_arrow {
+-webkit-transform: rotate(-180deg);
+-moz-transform: rotate(-180deg);
+-ms-transform: rotate(-180deg);
+-o-transform: rotate(-180deg);
+float: right;
+}

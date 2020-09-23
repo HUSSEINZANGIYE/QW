@@ -1,0 +1,52 @@
+@font-face {
+  font-family: Iransans;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Iranian-Sans/eot/IRANSansWeb(FaNum)_Light.eot");
+  src: url("../fonts/Iranian-Sans/eot/IRANSansWeb(FaNum)_Light.eot@#iefix") format("embedded-opentype"), url("../fonts/Iranian-Sans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/Iranian-Sans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/Iranian-Sans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+
+  body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#container {
+  font-family: Iransans;
+  padding: 30px 200px;
+  direction: rtl;
+  text-align: right;;
+}
+
+h4{
+  margin-top:0;
+}
+
+ol{
+  list-style-type: disk;
+}
+
+p, ol li, a{
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 960px) {
+  #container {
+    padding: 20px;
+  }
+
+  p, ul li {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  #container {
+    padding: 20px;
+  }
+}

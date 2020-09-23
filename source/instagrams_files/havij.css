@@ -1,0 +1,27 @@
+.banner-center-box{
+    text-align:right;
+}
+
+h1,h4,p,input,a,button,div{
+    font-family:dana!important;
+}
+
+.form-control{
+    text-align:center!important;
+}
+
+.box-content h4{
+    direction:rtl;
+    text-align:right;
+}
+
+.box-info .box-icon {
+    float: right;
+    margin: 3px 0 0 30px;
+    padding-right: 1px;
+    padding-left:unset!important;
+}
+
+.box-content p, .copyrights-message{
+    direction:rtl;
+}

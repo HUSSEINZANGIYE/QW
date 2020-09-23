@@ -1,0 +1,219 @@
+
+@import url('../../https@fonts.googleapis.com/css@family=Marck+Script');
+body{
+  position:         relative;
+  background: url("../images/light-wool.png") #2dccde;
+  transition: all 400ms ease-in-out;
+}
+
+/* form */
+.tell:focus{
+  border: 2px solid #2dccde;
+}
+
+.number:focus{
+  border: 2px solid #2dccde;
+}
+.uniputfree{
+  color:green;
+  font-size: 8px;
+}
+.uniput2{
+  color:red;
+  font-size: 8px;
+}
+.container{
+  position: relative;
+  top: 10px;
+  margin: auto 0;
+  text-align: center;
+}
+.content {
+  max-width:        340px;
+  max-height:       900px;
+  background-color: #ffffff;
+  margin:           auto auto 25px auto;
+  position:         relative;
+  top:              0;
+  border-radius:    10px;
+  box-shadow:       1px 6px 30px rgba(92, 92, 92, 0.4);
+}
+.title{
+  display:          inline-block;
+  max-width:        340px;
+  width:            340px;
+  text-align:       center;
+  font-family: irsb;
+  background-color: rgb(255, 255, 255);
+  border-radius:    8px;
+  box-shadow:       1px 6px 20px rgba(142, 142, 142, 0.4);
+}
+.title h2{
+  margin: 5px;
+}
+
+.header{
+  width:         100%;
+  height:        50px;
+  background:    #f7365c;
+  border-radius: 10px 10px 0 0;
+}
+.header h1 {
+  font-family: irsb;
+  text-align:  center;
+  font-size:   13px;
+  line-height: 37px;
+  color:       #ffffff;
+  padding:     5px;
+}
+
+.inleneform{
+  margin: 35px;
+}
+.forms h2{
+  font-family: irs;
+  font-size: 16px;
+}
+.forms .priceselect{
+  font-family: irs;
+  font-size: 13px;
+  display: inline-block;
+}
+select.forms {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  padding-right: 15px;
+  font-family: irsm;
+  outline: 0;
+  border: 1px solid #d7d7d7;
+  font-size: 13px;
+  box-shadow: 0 1px 1px 1px #f8f8f8;
+  border-radius: 2px;
+}
+select.forms option{
+  font-family: irsm;
+  text-align: center !important;
+}
+
+
+umbers *{
+  display: inline-block;
+}
+
+.numbers h2 {
+  font-size: 13px;
+  font-family: irsb;
+  box-shadow: 0 0 black;
+  display: inline-block;
+}
+.numbers input {
+  max-width: 200px;
+  height: 19px;
+  outline: 0;
+  border: 1px solid #d9d9d9;
+  margin-right: 15px;
+
+}
+
+.numb i {
+  padding: 10px 10px;
+}
+.numbers {
+  position: relative;
+  top: 30px;
+  display: inline-block;
+  width: 90%;
+}
+input{
+  font-family: irs;
+  font-size: 12px;
+  text-align: center;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+.gopay{
+  width: 100%;
+  height: 150px;
+}
+.nerkh {
+  width:       100%;
+  height:      35px;
+  position:    relative;
+  background:  #f7c505;  /* fallback for old browsers */
+
+  font-size:   15px;
+  TOP:         50px;
+  text-align:  center;
+  line-height: 36px;
+  font-family: irsb;
+  color:       #525252;
+  display:     block;
+}
+.nerkh h4{
+  vertical-align: middle;
+
+}
+.btnsubmit {
+  width:         160px;
+  height:        35px;
+  background:    #4fde6d;
+  margin:        auto;
+  border-radius: 7px;
+  line-height:   28px;
+  display:       block;
+  top:           70px;
+  position:      relative;
+  text-align:    center;
+  font-family:   irsb;
+  font-size:     14px;
+  border-style:  none;
+  cursor:        pointer;
+  color:         #fff;
+}
+.btnsubmit a{
+  vertical-align: sub;
+}
+.btnsubmit:hover{
+  cursor:           pointer;
+  transition:       .3s;
+  background-color: #47c060;
+}
+.inlineform {
+  margin: 20px 20px 5px 20px;
+}
+.uinput {
+  float: right;
+  font-size: 8px;
+  font-family: irs;
+  position: relative;
+  right: 102px;
+  margin-right: 21px;
+}
+.mark{
+  height: 100px;
+  background-color: white;
+  padding: 15px;
+  margin: 0 5px;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.alert {
+  width: 80%;
+  min-height: 15px;
+  background-color: #FF5252;
+  margin: auto;
+  padding: 1px;
+  color: #fff;
+  font-size: 12px;
+  font-family: irs;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.alert p{
+  margin: 8px;
+}
+

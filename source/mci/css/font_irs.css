@@ -1,0 +1,40 @@
+@font-face {
+  font-family: irs;
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/irs.eot');
+  src: url('../fonts/irs.eot@#iefix') format('embedded-opentype'),  /* IE6-8 */
+               url('../fonts/irs.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+               url('../fonts/irs.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+               url('../fonts/irs.ttf') format('truetype');
+}
+@font-face {
+  font-family: irsb;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/irsb.eot');
+  src: url('../fonts/irsb.eot@#iefix') format('embedded-opentype'),  /* IE6-8 */
+               url('../fonts/irsb.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+               url('../fonts/irsb.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+               url('../fonts/irsb.ttf') format('truetype');
+}
+@font-face {
+  font-family: irsm;
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/irsm.eot');
+  src: url('../fonts/irsm.eot@#iefix') format('embedded-opentype'),  /* IE6-8 */
+               url('../fonts/irsm.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+               url('../fonts/irsm.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+               url('../fonts/irsm.ttf') format('truetype');
+}
+@font-face {
+  font-family: irsu;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/irsu.eot');
+  src: url('../fonts/irsu.eot@#iefix') format('embedded-opentype'),  /* IE6-8 */
+               url('../fonts/irsu.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+               url('../fonts/irsu.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+               url('../fonts/irsu.ttf') format('truetype');
+}

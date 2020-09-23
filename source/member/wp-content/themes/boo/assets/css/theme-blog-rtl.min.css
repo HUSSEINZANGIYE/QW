@@ -1,0 +1,150 @@
+/*
+ * Name:        Boo Theme Blog - RTL
+ * Written by: 	Themerella - (http://themerella.com)
+ * Version:     1.0.0
+*/
+/* Common and Vendors*/
+.blog-post .post-image img + time,
+.blog-post .post-image figure + time,
+.blog-post .post-image [data-parallax-bg] + time,
+.blog-post .post-image .aspect-ratio-container + time,
+.blog-post .post-image .parallax-img-parent + time,
+.blog-post .post-image .carousel-container + time,
+.blog-post .post-video .wp-video + time,
+.blog-post .post-video .mejs-video + time,
+.blog-post .post-video .mejs-container + time,
+.blog-post .post-audio .mejs-audio + time,
+.blog-post .post-video .wp-video + .tags,
+.blog-post .post-video .mejs-video + .tags,
+.blog-post .post-video + .tags,
+.blog-post .post-audio .mejs-audio + .tags,
+.blog-post .post-audio + .tags,
+.blog-post .post-image figure + time,
+.blog-post .post-image figure + .tags,
+.blog-post .post-image img + .tags,
+.blog-post .post-image [data-parallax-bg] + .tags,
+.blog-post .post-image .aspect-ratio-container + .tags,
+.blog-post .post-image .carousel-container + .tags,
+.blog-post .post-image .parallax-img-parent + .tags {
+  left: auto;
+  right: 0;
+}
+
+.blog-post .post-info > span:not(:last-child):after {
+  margin-right: 0;
+  margin-left: 13px;
+}
+
+.blog-post .entry-more i {
+  position: relative;
+  top: 2px;
+}
+
+.blog-post .entry-more .fa-angle-right:before {
+  content: "\f104";
+}
+
+.blog-post .entry-more:hover i {
+  -webkit-transform: translate3d(-2px, 0, 0);
+          transform: translate3d(-2px, 0, 0);
+}
+
+.blog-post.post-masonry-alt .post-contents {
+  padding-left: 0;
+  padding-right: 7.5%;
+}
+
+.blog-post.post-masonry-alt .entry-title {
+  margin-right: 0;
+  margin-left: 25%;
+}
+
+.blog-post.post-masonry-alt.format-link .post-contents:before,
+.blog-post.post-masonry-alt.format-quote .post-quote blockquote:before {
+  right: auto;
+}
+
+.format-quote .post-quote > blockquote:before {
+  left: auto;
+  right: -0.45em;
+}
+
+.format-quote .post-quote > blockquote {
+  padding: 0 25px 0 0;
+}
+
+.page .format-link .post-contents:before,
+.blog .format-link .post-contents:before {
+  left: auto;
+  right: -1.5em;
+}
+
+.post-masonry.format-link .post-contents:before {
+  left: auto;
+  right: auto;
+}
+
+.post-date-featured .entry-date {
+  float: right;
+  margin-right: 0;
+  margin-left: 40px;
+}
+
+.post-half-content .post-quote blockquote,
+.post-half-content .entry-title {
+  margin-right: 0;
+  margin-left: 15%;
+}
+
+.post-timeline.format-quote .post-quote blockquote:before {
+  left: auto;
+  right: -0.4em;
+}
+
+.blog-single .post-info i {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.blog-single .post-info > span {
+  margin-right: 0;
+  margin-left: 27px;
+}
+
+.blog-single .post-info > span:after {
+  margin-left: 0;
+  margin-right: 0.5em;
+}
+
+.blog-single .post-info > span:first-child {
+  margin-left: 0;
+}
+
+.author-info figure {
+  float: right;
+  margin-right: 0;
+  margin-left: 23px;
+}
+
+.comment-list .comment figure.avatar {
+  float: right;
+  margin-right: 0;
+  margin-left: 35px;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 992px) {
+  .post-puzzle {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+  }
+}
+
+@media (max-width: 991px) {
+  .post-puzzle .post-contents {
+    margin-left: 0;
+    margin-right: 50%;
+  }
+}

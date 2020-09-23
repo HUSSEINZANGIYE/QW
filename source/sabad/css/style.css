@@ -1,0 +1,177 @@
+@font-face{
+	font-family: 'vazir';
+	src:url("https://azerakhsh.site/fonts/Vazir-FD.woff")format("woff"),
+	url("https://azerakhsh.site/fonts/Vazir-FD.eot")format("eot"),
+	url("https://azerakhsh.site/fonts/Vazir-FD.ttf")format("truetype")
+}
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	direction: rtl;
+	font-family: 'vazir'
+}
+body{
+	text-align: center;
+	font-family: 'vazir';
+}
+
+form{
+	padding: 10px 30%;
+}
+h2{
+	color: #666;
+	border-bottom: 1px solid #666;
+	margin-bottom: 20px;
+	text-align: right;
+	font-weight: 400;
+}
+.controls{
+	text-align: right;
+	position: relative;
+	margin-bottom: 20px;
+}
+input[type=text],
+input[type=email],
+input[type=tel],
+select,textarea,button{
+	padding: 18px;
+	border: 1px solid #c6c6c6;
+	width: 100%;
+	color: #888;
+	font-family: 'vazir';
+	border-radius: 3px;
+	text-align: right;
+}
+.label{
+	position: absolute;
+	top: 10px;
+	right: 12px;
+	display: inline-block;
+	padding: 2px 10px;
+	background: #fff;
+	transition: .3s ease-in-out;
+	color: #666
+}
+.label.active{
+	top: -11px;
+}
+.ion-navicon{
+	position: absolute;
+	left: 10px;
+	top: 14px;
+	color: #888
+}
+select{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+textera{
+	height: 100px;
+}
+.radiobox{
+	display: none;
+}
+.radiobox + label span{
+	display: inline-block;
+	cursor: pointer;
+	background: url(https://sabad-iran.net/cgi_bin/sabad/img/checks.png)no-repeat -4px -4px;
+	width: 16px;
+	height: 16px;
+	margin-left: 10px;
+}
+.radiobox:checked + label span{
+	background: url(https://sabad-iran.net/cgi_bin/sabad/img/checks.png)no-repeat -4px -28px;
+}
+.radiobox + label {
+	cursor: pointer;
+	position: relative;
+	margin-left: 5px;
+}
+.checkbox{
+	display: none;
+}
+.checkbox + label span{
+	display: inline-block;
+	cursor: pointer;
+	background: url(https://sabad-iran.net/cgi_bin/sabad/img/checks.png)no-repeat -4px -4px;
+	width: 16px;
+	height: 16px;
+	margin-left: 10px;
+}
+.checkbox:checked + label span{
+	background: url(https://sabad-iran.net/cgi_bin/sabad/img/checks.png)no-repeat -4px -52px;
+}
+.checkbox + label {
+	cursor: pointer;
+	position: relative;
+	margin-left: 5px;
+	
+}
+
+.header{
+    width: 100%;
+    height: 120px;
+    background: #009380 url(data:image/jpeg;base64,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);
+}
+
+        .center-content{
+            padding-top:10px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .right-logo{
+            position: absolute;
+            top:25px;
+            right: 25px;
+        }
+
+        .top-box{
+            width: 100%;
+            height: 170px;
+
+        }
+
+        .samaneh-logo{
+            width: 100%;
+            text-align: center;
+            padding-top: 20px;
+        }
+		
+		        .footer-box{
+            width: 100%;
+            text-align: center;
+            height:100px;
+        }
+
+        .footer-box .tow-box{
+
+            vertical-align: top;
+            height: 100px;
+
+        }
+		
+		        .footer{
+            font-size: 0.7em;
+            font-weight: normal;
+            text-align: center;
+        }
+
+        .footer-text{
+            margin-top: 8px;
+            font-size: 0.74em;
+            font-weight: normal;
+            color: #235C91;
+        }
+
+button{
+	cursor: pointer;
+	background: #3498db;
+	border: none;
+	color: #fff;
+	padding: 12px 5px;
+	text-align: center;
+	width: 100%;
+}

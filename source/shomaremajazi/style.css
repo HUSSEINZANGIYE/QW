@@ -1,0 +1,47 @@
+#dialog input,#dialog select,#msform input,#msform select{width:100%;box-sizing:border-box;color:#2C3E50;font-size:13px}@font-face{font-family:Naskh;src:url(../fonts/Naskh/Naskh.eot?#) format('eot'),url(../fonts/Naskh/Naskh.woff) format('woff'),url(../fonts/Naskh/Naskh.ttf) format('truetype')}@font-face{font-family:BYekan;src:url(../fonts/BYekan/BYekan.eot?#) format('eot'),url(../fonts/BYekan/BYekan.woff) format('woff'),url(../fonts/BYekan/BYekan.ttf) format('truetype')}@font-face{font-family:IRANSans;font-style:normal;font-weight:700;src:url(../fonts/fontiran/IRANSansWeb.eot);src:url(../fonts/fontiran/IRANSansWeb.eot?#iefix) format('embedded-opentype'),url(../fonts/fontiran/IRANSansWeb.woff2) format('woff2'),url(../fonts/fontiran/IRANSansWeb.woff) format('woff'),url(../fonts/fontiran/IRANSansWeb.ttf) format('truetype')}*{margin:0;padding:0;font-family:IRANSans,tahoma}html{height:100%}body{background-attachment:fixed!important;background:linear-gradient(rgba(196,102,0,.6),rgba(155,89,182,.6))}#msform{width:100%;margin:50px auto;text-align:center;position:relative}#msform #loading,.fs-title{text-align:right}#msform fieldset{background:#fff;border:0;border-radius:0 0 4px 4px;padding:20px 30px;box-sizing:border-box}#msform input,#msform select{padding:15px;border:1px solid #ccc;border-radius:3px;margin-bottom:10px}#dialog input,#dialog select{padding:6px 12px;border:1px solid #ccc;border-radius:3px;margin-bottom:0}#msform .action-button{width:150px;background:#27AE60;font-weight:700;color:#fff;border:0;border-radius:4px;cursor:pointer;padding:15px 5px;margin:10px 0px;display:block}.fs-title,.navbar-default{background-color:#9b59b6}.fs-title,.navbar-default .navbar-brand{color:#ecf0f1}.navbar-default,.navbar-default .navbar-toggle{border-color:#8e44ad}#msform .action-button:focus,#msform .action-button:hover{background:#27ae60cf}.fs-title{font-size:15px;padding:10px;margin:0 auto;border-radius:4px 4px 0 0}.col-centered{float:none!important;margin:0 auto!important}.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:hover{color:#ecdbff}.navbar-default .navbar-nav>li>a,.navbar-default .navbar-text{color:#ecf0f1}.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>li>a:hover{color:#ecdbff}.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:focus,.navbar-default .navbar-nav>.open>a:hover{color:#ecdbff;background-color:#8e44ad}.navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{background-color:#8e44ad}.navbar-default .navbar-toggle .icon-bar{background-color:#ecf0f1}.navbar-default .navbar-collapse,.navbar-default .navbar-form{border-color:#ecf0f1}.navbar-default .navbar-link{color:#ecf0f1}.navbar-default .navbar-link:hover{color:#ecdbff}.navbar{border-radius:0 0 4px 4px}@media (max-width:767px){.navbar-default .navbar-nav .open .dropdown-menu>li>a{color:#ecf0f1}.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{color:#ecdbff}.navbar-default .navbar-nav .open .dropdown-menu>.active>a,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover{color:#ecdbff;background-color:#8e44ad}}
+.navbar-brand {
+    height: 40px !important;
+}
+.navbar {
+    border: none;
+    border-radius: 0;
+}
+.nav-user-li {
+    background:#d47156;
+    min-width: 168px;
+}
+
+.trustLogoContainer {
+    margin-top: 20px;
+}
+
+@media (max-width: 955px) {
+    .nav>li>a {
+        padding: 15px 8px;
+    }
+}
+@media (max-width: 767px) {
+    .nav>li>a {
+        padding: 10px 15px;
+    }
+}
+@media (max-width: 414px) {
+    #msform .action-button {
+        width: 100%;
+    }
+}
+@media (min-width: 768px) {
+    .navbar-nav, .navbar-nav>li {
+        float: none;
+        display: inline-block;
+    }
+    #navbar {
+        text-align: center;
+    }
+}
+
+@media (max-width: 1020px) {
+    .nav-user-li {
+        display: block !important;
+    }
+}

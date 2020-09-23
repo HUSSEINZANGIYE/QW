@@ -1,0 +1,450 @@
+@font-face {
+  font-family: Iransans;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../../../external.html?link=http://arzan-net.com/Resources/fonts/Iranian-Sans/eot/IRANSansWeb(FaNum)_Light.eot");
+  src: url("../../../external.html?link=http://arzan-net.com/Resources/fonts/Iranian-Sans/eot/IRANSansWeb(FaNum)_Light.eot@#iefix") format("embedded-opentype"), url("../../../external.html?link=http://arzan-net.com/Resources/fonts/Iranian-Sans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../../../external.html?link=http://arzan-net.com/Resources/fonts/Iranian-Sans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../../../external.html?link=http://arzan-net.com/Resources/fonts/Iranian-Sans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff; }
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+#header {
+  position: relative;
+  text-align: center;
+  height: 250px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient(#e31212, #e31212 50%, #fff 50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Nunito", sans-serif; }
+
+#header #speedtest {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  padding: 20px;
+  border-radius: 6px;
+  box-sizing: border-box; }
+
+#header #speedtest #gauge {
+  width: 100%;
+  height: 100%;
+  padding: 12px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 32px rgba(21, 55, 172, 0.25), inset 0 -192px 192px -240px #e31212;
+  box-sizing: border-box; }
+
+#header #speedtest #gauge path:first-child {
+  opacity: 1 !important;
+  display: block !important; }
+
+#header #speedtest #gauge-label {
+  position: absolute;
+  top: 47.5%;
+  left: 50%;
+  font-size: 64px;
+  transform: translate(-50%, -50%);
+  color: #e31212; }
+
+#header #speedtest #gauge-label:after {
+  content: "Mbit/s";
+  position: absolute;
+  font-size: 35%;
+  bottom: 5px;
+  left: 50%;
+  transform: translate(-50%, 100%); }
+
+#header #speedtest:before, #header #speedtest:after {
+  display: block;
+  position: absolute;
+  bottom: 25%;
+  font-family: inherit;
+  font-size: 14px;
+  color: #9198af; }
+
+#header #speedtest:before {
+  content: "0";
+  left: 28%; }
+
+#header #speedtest:after {
+  content: "100";
+  right: 28%; }
+
+#container {
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-family: Iransans;
+  position: relative;  }
+
+p {
+  text-align: center;
+  direction: rtl;
+  font-size: 12px;
+  margin-top: 0px; }
+
+main {
+  direction: rtl;
+  padding: 5% 7%;
+  padding-top: 1%;
+  font-family: Iransans;
+  text-align: center;
+  position: relative;
+ }
+
+main p, main h4, main a {
+  margin: 1% auto;
+  color: #000;
+  font-weight: bold;
+  position: relative;
+  font-size: 14px; }
+
+.title{
+  font-size: 1.5em;
+  -webkit-text-stroke: 1.5px #000;
+  margin: 0;
+  font-weight: normal;
+}
+
+.membership{
+  width: 400px;
+  background-color: #28ed98;
+  color: #232323;
+  border-radius: 5px;
+  padding: 8px 0;
+}
+
+.inputSubmit {
+  width: 400px;
+  margin: auto;
+  padding: 0;
+  direction: ltr;
+  position: relative;
+ }
+
+.inputSubmit input {
+  font-size: 14px;
+  background-color: #fff;
+  font-weight: bold;
+  font-family: Iransans;
+  color: #000;
+  border: 1px solid #28ed98;
+  display: block;
+  width: 100%;
+  padding: 7px;
+  border-radius: 10px;
+  text-align: center;
+  letter-spacing: 3px;
+  position: relative;
+ }
+
+.inputSubmit .btn {
+  background-color: #28ed98;
+  color: #232323;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 60px;
+  display: block;
+  width: 100%;
+  padding: 7px;
+  margin-top: 15px;
+  letter-spacing: normal;
+  position: relative;
+  cursor: pointer; }
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #707070;
+  opacity: 1;
+  /* Firefox */
+  letter-spacing: 4px; }
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #707070;
+  letter-spacing: 4px; }
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #707070;
+  letter-spacing: 4px; }
+
+.progress-container {
+  width: 400px;
+  margin: auto;
+  direction: rtl;
+  text-align: right; }
+
+.progress-bar {
+  padding: 1px;
+  border: 2px solid #727272;
+  background: #727272;
+  border-radius: 60px;
+  margin-bottom: 1%; }
+
+.progress {
+  color: black;
+  padding: 2px;
+  border-radius: 60px;
+  background: linear-gradient(314deg, #28ed98 0%, #29dd8f 45%, #0d462d 50%, #29dd8f 55%, #28ed98 100%);
+  background-size: 1000% 1000%;
+  -webkit-animation: AnimationName 2s ease infinite;
+  -moz-animation: AnimationName 2s ease infinite;
+  animation: AnimationName 2s ease infinite; }
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 4% 0%; }
+  100% {
+    background-position: 97% 100%; } }
+
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 4% 0%; }
+  100% {
+    background-position: 97% 100%; } }
+
+@keyframes AnimationName {
+  0% {
+    background-position: 4% 0%; }
+  100% {
+    background-position: 97% 100%; } }
+
+.step {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  color: #a7a9ac;
+  font-size: 12px; }
+
+.width-30 {
+  width: 33%; }
+
+.width-60 {
+  width: 66%; }
+
+.width-100 {
+  width: 100%; }
+
+#seccessBtn, #downloadBtn {
+  border: none;
+  display: block;
+  width: 400px;
+  margin: 10px auto;
+  border-radius: 25px;
+  padding: 7px;
+  font-size: 14px;
+  font-family: Iransans;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #28ed98;
+  color: #232323; }
+
+.text-danger {
+  color: red; }
+
+#divProcessing {
+  margin: 0; }
+
+#divProcessing .load-spn {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  border-radius: 50%; }
+
+#divProcessing #text {
+  display: inline-block;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  color: #000; }
+
+#divProcessing #spn1 {
+  animation: load linear 0.9s infinite; }
+
+#divProcessing #spn2 {
+  animation: load linear 0.9s 0.3s infinite; }
+
+#divProcessing #spn3 {
+  animation: load linear 0.9s 0.6s infinite;
+  -webkit-animation: load linear 0.9s 0.6s infinite; }
+
+@keyframes load {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color: #c0ffe3; }
+  25% {
+    background-color: #71f4bc;
+    width: 11px;
+    height: 11px; }
+  50% {
+    background-color: #28ed98;
+    width: 12px;
+    height: 12px; }
+  75% {
+    background-color: #71f4bc;
+    width: 11px;
+    height: 11px; }
+  100% {
+    background-color: #c0ffe3;
+    width: 10px;
+    height: 10px; } }
+
+@-webkit-keyframes load {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color: #c0ffe3; }
+  25% {
+    background-color: #71f4bc;
+    width: 11px;
+    height: 11px; }
+  50% {
+    background-color: #28ed98;
+    width: 12px;
+    height: 12px; }
+  75% {
+    background-color: #71f4bc;
+    width: 11px;
+    height: 11px; }
+  100% {
+    background-color: #c0ffe3;
+    width: 10px;
+    height: 10px; } }
+
+    /* modal */
+    .modal {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 9999; /* Sit on top */
+      padding-top: 100px; /* Location of the box */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+      background-color: #fefefe;
+      margin: auto;
+      padding: 15px;
+      border: 1px solid #888;
+      width: 80%;
+      color:#333;
+      direction: rtl;
+       text-align: right;
+        display: flex;
+        flex-direction: column;
+        font-size: 11px;
+    }
+    .modal-content p{
+        line-height: 2;
+        direction: rtl;
+        text-align: right;
+    }
+    .modal-content ul{
+        line-height: 2;
+        direction: rtl;
+        text-align: right;
+        padding-right: 10px;
+        list-style-type: disc;
+    }
+    /* The Close Button */
+    .close {
+      color: #aaaaaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    #modalBtn{
+        margin-left: 1px;
+        cursor: pointer;
+    }
+    /*modal end*/
+
+@media only screen and (max-width: 960px) {
+  .step {
+     font-size: 10px;
+  }
+  main p, main h4, .inputSubmit .btn {
+    font-size: 12px; }
+ #seccessBtn, #downloadBtn {
+    font-size: 12px; }
+}
+
+@media only screen and (max-width: 768px) {
+  main {
+    padding: 5%;
+    font-size: 12px;
+  }
+ 
+  .title{
+    font-size: 2em;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  .title{
+    font-size: 2em;
+  }
+  #container .content #seccessBtn, #container .content #downloadBtn, #container .content .inputSubmit, #container .content .progress-container {
+    width: 90%;
+    margin: 15px auto;
+  }
+  #container .content main {
+    padding-top: 0; }
+  #container .membership {
+    width: 100%;
+    padding: 5px 0;
+  }
+  #container .progress-container {
+    width: 90%;
+    margin: 5% 5%;
+    margin-top: 0;
+    direction: rtl;
+    text-align: right; }
+    #seccessBtn, #downloadBtn, .inputSubmit {
+      width: 90%;
+      margin: 15px 5%;
+    }
+   }
+ @media only screen and (max-width: 420px) {
+
+     .modal {
+       padding-top: 50px; /* Location of the box */
+
+     }
+
+     /* Modal Content */
+     .modal-content {
+       width: 90%;
+     }
+   }
+
+@media only screen and (max-width: 320px) {
+  .title{
+    font-size: 1.8em;
+  }
+}
